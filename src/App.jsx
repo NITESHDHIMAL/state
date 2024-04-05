@@ -59,6 +59,8 @@ function App() {
         name:<input type="text" />
         name:<input type="text" />
         name:<input type="text" />
+      locatin:<input type="text" />
+
       </form>
 
 
