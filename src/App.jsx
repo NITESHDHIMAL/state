@@ -49,6 +49,19 @@ function App() {
       <Contacts contacts={contacts} />
 
 
+      <form action="">
+        name:<input type="text" />
+        name:<input type="text" />
+        name:<input type="text" />
+        name:<input type="text" />
+        name:<input type="text" />
+        name:<input type="text" />
+        name:<input type="text" />
+        name:<input type="text" />
+        name:<input type="text" />
+      </form>
+
+
     </>
   )
 }
